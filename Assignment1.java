@@ -23,7 +23,7 @@ public class numbersCalc {
         num2 = sc.nextInt();
         
         sc.close();
-        sum = num1 + num2;
+        sum = num1 + num2; 
         System.out.println("Sum of these numbers: "+sum);
         sum= num1 - num2;
         System.out.println("Subtract of these numbers: "+sum);
